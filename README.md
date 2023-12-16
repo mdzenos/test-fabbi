@@ -1,5 +1,5 @@
 
-<h2>This is the result of my PHP developer exam at Fabbi SJC(https://github.com/dongvh-fabbi/php_test).</h2>
+<h2>This is the result of my PHP developer exam at Fabbi JSC(https://github.com/dongvh-fabbi/php_test).</h2>
 ================
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
